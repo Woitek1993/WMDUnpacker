@@ -1,2 +1,2 @@
 # WMDUnpacker
-Simple uncompleted BKW extractor for Worms W.M.D maps
+Simple incompleted BKW extractor for Worms W.M.D maps
